@@ -1,6 +1,6 @@
 # Privacy Policy for Prime Health
 
-**Last updated:** July 9, 2026
+**Last updated:** July 30, 2026
 
 Prime Health ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how the app collects, uses, and protects your information.
 
