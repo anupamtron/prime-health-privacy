@@ -45,6 +45,7 @@ Prime Health is not intended for children under the age of 13.
 ## Data Retention
 
 Prime Health retains your information only for as long as necessary to provide the app's functionality.
+Health information, food logs, weight records, activity records, and other app data are stored locally on your device and are not transmitted to or stored on our servers. If you uninstall the app or clear the app's storage, this locally stored data will be removed.
 
 Health information, food logs, weight records, and activity records are stored locally on your device unless otherwise stated. If you uninstall the app or clear the app's storage, this locally stored data will be removed.
 
