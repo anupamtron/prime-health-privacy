@@ -23,6 +23,17 @@ https://policies.google.com/privacy
 
 Prime Health may offer optional premium features through Google Play Billing. Payment information is securely handled by Google. We do not receive or store your payment card details.
 
+## Data Deletion
+
+Users can delete their locally stored data at any time by:
+
+- Clearing the app's storage through Android Settings.
+- Uninstalling the Prime Health app from their device.
+
+If you have any questions regarding data deletion, you may contact us at:
+
+primehealthsupport@gmail.com
+
 ## Data Security
 
 We take reasonable measures to protect your information. However, no method of electronic storage or internet transmission is 100% secure.
@@ -30,6 +41,14 @@ We take reasonable measures to protect your information. However, no method of e
 ## Children's Privacy
 
 Prime Health is not intended for children under the age of 13.
+
+## Data Retention
+
+Prime Health retains your information only for as long as necessary to provide the app's functionality.
+
+Health information, food logs, weight records, and activity records are stored locally on your device unless otherwise stated. If you uninstall the app or clear the app's storage, this locally stored data will be removed.
+
+Information collected by third-party services such as Google AdMob or Google Play Billing is subject to their own retention policies.
 
 ## Changes to This Policy
 
