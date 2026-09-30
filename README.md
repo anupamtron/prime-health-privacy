@@ -1,6 +1,6 @@
 # Privacy Policy for Prime Health
 
-**Last updated:** July 30, 2026
+**Last updated:** September 30, 2026
 
 Prime Health ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how the app collects, uses, and protects your information.
 
@@ -21,7 +21,7 @@ https://policies.google.com/privacy
 
 ## In-App Purchases
 
-Prime Health may offer optional premium features through Google Play Billing. Payment information is securely handled by Google. We do not receive or store your payment card details.
+Prime Health offers optional premium features through Google Play Billing. Premium subscriptions are billed and managed through Google Play. Prime Health does not receive or store your payment card details.
 
 ## Data Deletion
 
