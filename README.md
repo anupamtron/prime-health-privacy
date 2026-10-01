@@ -1,6 +1,6 @@
 # Privacy Policy for Prime Health
 
-**Last updated:** September 30, 2026
+**Last updated:** October 1, 2026
 
 Prime Health ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how the app collects, uses, and protects your information.
 
@@ -37,6 +37,9 @@ primehealthsupport@gmail.com
 ## Data Security
 
 We take reasonable measures to protect your information. However, no method of electronic storage or internet transmission is 100% secure.
+
+## Notifications 
+Prime Health may send optional local notifications, such as reminders to return to the app and log food. These notifications are generated on your device and can be disabled through the app's notification settings or your Android device settings. Prime Health does not use notification reminders to collect or transmit your health, food, or activity data.
 
 ## Children's Privacy
 
